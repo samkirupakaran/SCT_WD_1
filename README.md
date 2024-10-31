@@ -15,13 +15,3 @@ JavaScript for dynamic navbar styling on scroll
 Setup
 To use or modify this project, follow these steps:
 
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/responsive-landing-page.git
-Open index.html in your web browser to view the landing page.
-
-To customize, edit the content in index.html, style in styles.css, and behavior in script.js.
-
-Screenshots
